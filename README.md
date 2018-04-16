@@ -1,4 +1,4 @@
-# pdlog
+# s4y/log
 PHP Data Log template class
 
 ## Usage:

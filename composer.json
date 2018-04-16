@@ -1,5 +1,5 @@
 {
-    "name": "pdima88/pdlog",
+    "name": "s4y/log",
     "description": "PHP Data Log template class",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pdima88\\pdlog\\": "/"
+            "s4y\\": "/"
         }
     } 
 }

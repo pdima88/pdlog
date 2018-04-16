@@ -1,6 +1,6 @@
 <?php
 
-namespace pdima88\pdlog;
+namespace s4y;
 
 abstract class Log {
     const LEVEL_DEBUG = -1;
